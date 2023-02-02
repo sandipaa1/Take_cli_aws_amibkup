@@ -1,0 +1,4 @@
+aws ec2 create-image \
+    --instance-id i-020d641fcdc1b59f5 \
+    --name "My server" \
+    --no-reboot
